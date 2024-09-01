@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 // import "./globals.css";
 //USWDS Style Sheet
-import "../../assets/css/styles.css" 
+import "../../assets/uswds/css/styles.css" 
 
 const inter = Inter({ subsets: ["latin"] });
 
